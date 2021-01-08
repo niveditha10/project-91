@@ -1,0 +1,46 @@
+body{
+    background-image:url("background image.png");
+    text-align:center;
+}
+
+#heading{
+    color: white;
+    font-variant:small-caps;
+}
+
+.heading_2{
+color:white;
+font-size:30px;
+}
+#login_input_1{
+    width:500px;
+}
+
+#login_input_2{
+    width:500px;
+}
+
+body label{
+    color:coral;
+    font-variant:small-caps;
+    font-size:25px;
+}
+
+#start_section{
+    background-color:#E75480 ;
+    padding: 30px;
+    border:blue solid 5px;
+    margin:150px;
+}
+
+#myb{
+    background-image:url("background image.png");
+    text-align:center;  
+}
+
+#output{
+
+    background-color:white;
+    border-top: blue 5px solid;
+    border-radius:40px;
+}
